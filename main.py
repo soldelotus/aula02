@@ -1,2 +1,2 @@
-# git add --help
-
+#Printar o nome
+print("Sol de Lótus")
